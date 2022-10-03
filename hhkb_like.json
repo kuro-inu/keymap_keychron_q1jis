@@ -294,8 +294,8 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_RO",
-      "KC_RSFT",
       "KC_UP",
+      "KC_RSFT",
       "KC_NO",
       "MO(3)",
       "KC_GRV",
@@ -309,10 +309,10 @@
       "KC_GRV",
       "KC_RALT",
       "KC_APP",
-      "KC_RCTL",
       "KC_LEFT",
       "KC_DOWN",
-      "KC_RGHT"
+      "KC_RGHT",
+      "KC_LCTL"
     ],
     [
       "KC_TRNS",
